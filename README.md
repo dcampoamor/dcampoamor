@@ -7,8 +7,7 @@
 
  
 <div align="center">🎓 BE in Industrial Engineering <br>
-  💻 Working in industrial robotics, AI and artificial vision. <br>
-  📫 You can email me at : david.campoamor.medrano@gmail.com</div><br>
+  💻 Working in industrial robotics, AI and artificial vision. <br></div><br>
      
 <div align="center">
 <a href="https://es.linkedin.com/in/david-campoamor-medrano?trk=people-guest_people_search-card"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Icon" height="30" width="40" /><br />
