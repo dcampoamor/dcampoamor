@@ -6,16 +6,16 @@
 <div align="center"><h3 > About me: </h3>
 
  
-<div align="center">- 🎓 BE in Industrial Engineering <br>
-  - 
-📫 You can email me at : v.trevijano@gmail.com</div>
+<div align="center">🎓 BE in Industrial Engineering <br>
+  💻 Working in industrial robotics, AI and artificial vision. <br>
+  📫 You can email me at : david.campoamor.medrano@gmail.com</div><br>
      
 <div align="center">
-<a href="https://es.linkedin.com/in/david-campoamor-medrano?trk=people-guest_people_search-card"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Icon" height="30" width="40" /></a>
+<a href="https://es.linkedin.com/in/david-campoamor-medrano?trk=people-guest_people_search-card"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Icon" height="30" width="40" /><br />
 </div>
-
-
-<br />
+<br>
+ 
+![](https://visitor-badge.glitch.me/badge?page_id=dcampoamor.dcampoamor)
 <p  align="center">
      <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
      <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -31,7 +31,7 @@
      
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=dcampoamor.dcampoamor)
+
 
 <br />
 
