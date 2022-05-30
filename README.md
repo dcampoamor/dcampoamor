@@ -15,15 +15,28 @@
 <br>
  
 ![](https://visitor-badge.glitch.me/badge?page_id=dcampoamor.dcampoamor)
-<p  align="center">
-     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&style=plastic" />
-     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic" />
-     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&style=plastic" />
-     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&style=plastic" />
-     <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&style=plastic" />
-     <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white&style=plastic" />
-     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=plastic" />
-     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&style=plastic" />
-<br />
+ 
 
 
+<p align="center"> 
+     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+     <img src="https://user-images.githubusercontent.com/106073081/170985142-c2f7fcf7-2cae-42b3-a056-a6e514e6a420.svg" alt="raspberry-pi" width="40" height="40"/> 
+     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+     <img src="https://user-images.githubusercontent.com/106073081/170985504-d165479b-8d14-4912-bcd4-7a2f4002ab1d.svg" alt="Ubuntu" width="40" height="40"/> </a> 
+     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+     <a href="https://www.python.org" target="_blank" rel="noreferrer"></a>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+                                                                                                                                                                                                                                                             
+ </p>
+</br>
